@@ -1,0 +1,10 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.git/
+.env
+*.log
+.DS_Store
+dataset/
+patient_records.db
